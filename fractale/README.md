@@ -1,0 +1,2 @@
+# fractale
+le but de ce projet est de générer des fractales qui vont automatiquement se mettre en fond d'écran. L'étape de deux est de fusionner dans ces fractales des images aléatoires de ma bibliothèque photo
